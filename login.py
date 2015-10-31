@@ -1,3 +1,7 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+# Author: akul08
+
 import mechanize # To log in the page
 import shlex	 # To split a command
 import subprocess # To run a command
